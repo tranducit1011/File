@@ -1,5 +1,6 @@
-composer update
-copy .env.example.env
-php artisan key:generate
-php artisan migrate
-php artisan tinker
+1. LARAVEL FRAMEWORK COMMAND
+    composer update
+    copy .env.example.env
+    php artisan key:generate
+    php artisan migrate
+    php artisan tinker
